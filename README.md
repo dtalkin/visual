@@ -12,4 +12,6 @@ program (vis1.py) is to enable experimentation with all of the dynamic and
 static display parameters.
 
 To use this code, simply clone this repository or download vis1.py and
-adjuster.py, make vis1.py executable, and run vis1.py.
+adjuster.py, make vis1.py executable, and run vis1.py.  The code
+requires the Tkinter module and is written for Python 2.7, but could
+be modified slightly to run with Python 3.
